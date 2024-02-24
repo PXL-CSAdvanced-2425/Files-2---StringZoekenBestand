@@ -1,7 +1,7 @@
 # StringZoekenBestand
 
 Open het tekstbestand *Email.txt* via het dialoogvenster
-*OpenFileDialog* en zoek in hoeveel regels een karakter(s) voorkomen in
+*OpenFileDialog* en zoek in hoeveel regels een karakter(s) voorkomt in
 het tekstbestand. Voorzie een gestructureerde foutafhandeling:
 
 -   wanneer geen bestand geselecteerd is (FileStream leeg)
